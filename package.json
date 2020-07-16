@@ -13,7 +13,7 @@
     "axios": "^0.18.1",
     "bluebird": "^3.5.5",
     "fetch": "^1.1.0",
-    "lodash": "^4.17.11"
+    "lodash": "^4.17.19"
   },
   "devDependencies": {
     "eslint": "^5.16.0",
